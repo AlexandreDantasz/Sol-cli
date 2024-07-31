@@ -8,7 +8,7 @@
     <packageTypes>
       <packageType name="DotnetTool" />
     </packageTypes>
-    <repository type="git" />
+    <repository type="git" commit="a7a6543915b9e01bfc0976a53fbe4bb424c60e26" />
   </metadata>
   <files>
     <file src="C:\Users\alexa\dev\sol.cli\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
