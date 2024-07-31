@@ -1,9 +1,9 @@
 # O que é o Sol-cli? :computer:
 É uma simples interface de linha de comando para criar arquivos de código em C++<b>
-com um template voltado para competições de programação.
+com um template voltado para competições de programação. O nome "Sol" veio da palavra "Solution" que significa "Solução" em português.
 
 ## Tecnologias Utilizadas :pushpin:
-- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/): Linguagem de programação<br>
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (Linguagem de programação)<br>
 - [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet)<br>
 
 ## Como instalar o Sol-cli :white_check_mark:
