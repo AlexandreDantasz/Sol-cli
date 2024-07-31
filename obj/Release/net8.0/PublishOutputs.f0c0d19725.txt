@@ -1,0 +1,5 @@
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\publish\sol.cli.exe
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\publish\sol.cli.dll
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\publish\sol.cli.deps.json
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\publish\sol.cli.runtimeconfig.json
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\publish\sol.cli.pdb

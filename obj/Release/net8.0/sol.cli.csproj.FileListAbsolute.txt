@@ -1,0 +1,14 @@
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\sol.cli.exe
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\sol.cli.deps.json
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\sol.cli.runtimeconfig.json
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\sol.cli.dll
+C:\Users\alexa\dev\sol.cli\bin\Release\net8.0\sol.cli.pdb
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\sol.cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\sol.cli.AssemblyInfoInputs.cache
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\sol.cli.AssemblyInfo.cs
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\sol.cli.csproj.CoreCompileInputs.cache
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\sol.cli.dll
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\refint\sol.cli.dll
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\sol.cli.pdb
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\sol.cli.genruntimeconfig.cache
+C:\Users\alexa\dev\sol.cli\obj\Release\net8.0\ref\sol.cli.dll
