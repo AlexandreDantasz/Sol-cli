@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sol.cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7a6543915b9e01bfc0976a53fbe4bb424c60e26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6096de0a8bfb12f7f3b5d0f05f69a8549b9c57f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("sol.cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sol.cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
