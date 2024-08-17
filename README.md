@@ -13,7 +13,7 @@ com um template voltado para competições de programação. O nome "Sol" veio d
     - Abra o `git bash` ou `terminal` dentro dessa pasta.
     - Digite `git clone https://github.com/AlexandreDantasz/Sol-cli` e pressione `enter`
     - Copie o caminho absoluto do arquivo "template.cpp".
-    - Abra o arquivo Program.cs, cole o caminho dentro das aspas da linha 11 do arquivo e, ainda dentro das aspas, substitua toda / por //. <br>
+    - Abra o arquivo "Program.cs", cole o caminho dentro das aspas da linha 11 do arquivo e, ainda dentro das aspas, substitua toda \ por \\. <br>
     Exemplo: ``string pathToTemplate = "C:\\Users\\alexa\\dev\\sol.cli\\template.cpp";``
 3. Instale a ferramenta globalmente
     - Ainda no terminal, entre na pasta do projeto executando o comando `cd Sol-cli`
