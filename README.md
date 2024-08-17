@@ -12,10 +12,26 @@ com um template voltado para competições de programação. O nome "Sol" veio d
     - Crie uma pasta no seu computador para esse programa.
     - Abra o `git bash` ou `terminal` dentro dessa pasta.
     - Digite `git clone https://github.com/AlexandreDantasz/Sol-cli` e pressione `enter`
+    - Copie o caminho absoluto do arquivo "template.cpp".
+    - Abra o arquivo Program.cs e cole o caminho dentro das aspas da linha 11 do arquivo.
 3. Instale a ferramenta globalmente
     - Ainda no terminal, entre na pasta do projeto executando o comando `cd Sol-cli`
     - execute os seguintes comandos: `dotnet pack` e `dotnet tool install --global --add-source ./nupkg sol.cli`
 
 ## Como usar :question:
 Em qualquer terminal, basta digitar `sol <nome do arquivo>` e pressionar `enter`.
-- Certifique-se de que não há nenhum arquivo existente no mesmo diretório com o mesmo nome e com a extensão ".cpp".
+Após isso, serão criados: um arquivo de código c++ com o nome passado por parâmetro e um arquivo Makefile.
+
+<img src="./Assets/exemplo.png"/>
+
+### Forma do arquivo Makefile
+```
+    exec: main
+        ./main.exe
+    main:
+        g++ <nome do arquivo>.cpp -o main.exe
+```
+
+o arquivo Makefile especifica como o arquivo de código criado pelo usuário deve ser compilado e executado. Caso o usuário deseje compilar o código de outra forma, basta alterar o arquivo Makefile ou compilar de outra maneira.
+
+- Certifique-se de que não há nenhum arquivo existente no mesmo diretório com o mesmo nome e com a extensão ".cpp" e um arquivo "Makefile".
