@@ -18,9 +18,11 @@ com um template voltado para competições de programação. O nome "Sol" veio d
     - Ainda no terminal, entre na pasta do projeto executando o comando `cd Sol-cli`
     - execute os seguintes comandos: `dotnet pack` e `dotnet tool install --global --add-source ./nupkg sol.cli`
 
-## Como usar :question:
+## Como usar?
 Em qualquer terminal, basta digitar `sol <nome do arquivo>` e pressionar `enter`.
 Após isso, serão criados: um arquivo de código c++ com o nome passado por parâmetro e um arquivo Makefile.
+
+Exemplo: <br>
 
 <img src="./Assets/exemplo.png"/>
 
@@ -32,6 +34,8 @@ Após isso, serão criados: um arquivo de código c++ com o nome passado por par
         g++ <nome do arquivo>.cpp -o main.exe
 ```
 
-o arquivo Makefile especifica como o arquivo de código criado pelo usuário deve ser compilado e executado. Caso o usuário deseje compilar o código de outra forma, basta alterar o arquivo Makefile ou compilar de outra maneira.
+O arquivo Makefile especifica como o arquivo de código criado pelo usuário deve ser compilado e executado.  
+
+OBS: Caso o usuário deseje compilar o código de outra forma, basta alterar o arquivo Makefile ou compilar de outra maneira.
 
 - Certifique-se de que não há nenhum arquivo existente no mesmo diretório com o mesmo nome e com a extensão ".cpp" e um arquivo "Makefile".
