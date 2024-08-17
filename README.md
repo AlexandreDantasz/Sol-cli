@@ -21,11 +21,14 @@ com um template voltado para competições de programação. O nome "Sol" veio d
 
 ## Como usar?
 Em qualquer terminal, basta digitar `sol <nome do arquivo>` e pressionar `enter`.
-Após isso, serão criados: um arquivo de código c++ com o nome passado por parâmetro e um arquivo Makefile.
+Após isso, serão criados: um arquivo de código C++ com o nome passado por parâmetro e um arquivo Makefile.
 
 Exemplo: <br>
 
 <img src="./Assets/exemplo.png"/>
+
+## Como personalizar o template?
+Abra o arquivo "template.cpp" e altera o conteúdo para o <b>seu</b> padrão de código!
 
 ### Forma do arquivo Makefile
 ```
